@@ -7,12 +7,13 @@
 	color: white;
 	background: royalblue;
 }
-.main-content {
+#main-content {
 	padding: 20px;
 	background: lightgray;
+	height: 800px;
 }
 
-.main-content p {
+#main-content p {
 	font-size: 20px;
 	line-height: 1.5;
 	margin-top: 32px;
