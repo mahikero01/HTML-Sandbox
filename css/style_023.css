@@ -5,9 +5,7 @@ body {
 
 /* Shapes */
 
-.square,
-.circle, 
-.ellipse {
+.base {
   display: inline-block;
   margin: 0 15px;
   width: 200px;
@@ -15,8 +13,7 @@ body {
   background-color: lightcoral;
 }
 
-.circle, 
-.ellipse {
+.radius {
   border-radius: 50%;
 }
 
