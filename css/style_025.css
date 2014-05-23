@@ -7,9 +7,23 @@ form {
 }
 
 /* Attribute Selectors */
-[class] {
+a[class="foo"] {
 	background-color: crimson;
 	color: white;
 	padding: 5px;
 }
+input[type="text"] {
+	width: 200px;
+	height: 25px;
+	border: 2px solid grey;
+	background-color: lightyellow;
+}
 
+input[type="submit"] {
+	margin: 5px;
+	width: 100px;
+	height: 30px;
+	border: none;
+	background-color: steelblue;
+	color: white;
+}
