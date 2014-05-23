@@ -14,3 +14,9 @@ body {
 .main > a {
 	color: red;	
 }
+
+p + h2{
+	color: white;
+	padding: 10px;
+	background: royalblue;
+}
