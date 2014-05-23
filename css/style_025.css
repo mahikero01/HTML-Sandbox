@@ -27,3 +27,8 @@ input[type="submit"] {
 	background-color: steelblue;
 	color: white;
 }
+
+a[target="_blank"] {
+	text-decoration: none;
+	border-bottom: 2px dotted crimson;
+}
