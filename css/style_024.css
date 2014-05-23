@@ -11,6 +11,6 @@ body {
 
 /* Using Combinators */
 
-.main > a {
+.main  a {
 	color: red;	
 }
